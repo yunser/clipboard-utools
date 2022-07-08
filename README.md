@@ -1,6 +1,6 @@
-# app-utools
+# clipboard-utools
 
-uTools 应用快速打开插件。
+uTools 快速复制插件。
 
 
 ## 使用
