@@ -1,0 +1,14 @@
+{
+    "main": "./dist/index.html",
+    "preload": "./dist/main.js",
+    "logo": "logo.png",
+    "features": [
+        {
+            "code": "clipboard",
+            "explain": "快速复制",
+            "cmds": [
+                "剪切板"
+            ]
+        }
+    ]
+}
